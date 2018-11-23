@@ -1,5 +1,5 @@
 # lein-wsimport
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fklauern%2Flein-wsimport.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fklauern%2Flein-wsimport?ref=badge_shield)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Folimsaidov%2Flein-wsimport.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Folimsaidov%2Flein-wsimport?ref=badge_shield)
 
 
 A Leiningen plugin to utilize the JDK's [`wsimport`](http://docs.oracle.com/javase/6/docs/technotes/tools/share/wsimport.html) task from a Leiningen project.
@@ -13,7 +13,7 @@ I created this because I am new to Clojure and want to learn/contribute at the s
 Currently, this plugin only works against your `project.clj` configuration settings, so if you haven't already, add this to you're `:plugins` vector of your project.clj:
 
 ```clj
-[lein-wsimport "1.0.0"]
+[com.clojars.olimsaidov/lein-wsimport "1.1.0"]
 ```
 
 Running this plugin from the command-line is simple enough:
@@ -72,7 +72,7 @@ Distributed under the Eclipse Public License, the same as Clojure.
 
 
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fklauern%2Flein-wsimport.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fklauern%2Flein-wsimport?ref=badge_large)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Folimsaidov%2Flein-wsimport.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Folimsaidov%2Flein-wsimport?ref=badge_large)
 
 ## References:
 
